@@ -46,7 +46,8 @@ changes. Amendments are adopted by a board vote.
 Keep the latest adopted plan at `strategy.md` so links continue to work. When an
 adopted revision is published, update this copy alongside the python.org page
 and add links here to the relevant board decision, blog announcement, and review
-summary. Git history preserves earlier versions and shows how the plan changed.
+summary. Summarize each adopted revision in the [changelog](CHANGELOG.md).
+Git history preserves earlier versions and shows how the plan changed.
 
 ## Contributing
 
