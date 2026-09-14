@@ -10,7 +10,7 @@ The board adopted this plan on July 8, 2026\. It covers a five-year period and w
 
 ## How This Plan Was Shaped
 
-An earlier draft of this plan was reviewed by PSF staff between April 23 and June 14, 2026, and published for community feedback from June 4 to June 25, 2026 (Anywhere on Earth). During that time the board discussed the plan at the PyCon US 2026 Members Lunch and a dedicated Open Space session, held three public office hours on the PSF Discord (May 12, June 9, and June 23), and received written feedback through strategy@python.org and on the PSF Discuss forum.
+An earlier draft of this plan was reviewed by PSF staff between April 23 and June 14, 2026, and published for community feedback from June 4 to June 25, 2026 (Anywhere on Earth). During that time the board discussed the plan at the PyCon US 2026 Members Lunch and a dedicated Open Space session, held three public office hours on the PSF Discord (May 12, June 9, and June 23), and received written feedback through strategy [at] python.org and on the PSF Discuss forum.
 
 Feedback changed this document. Among other adjustments, staff feedback added the Security Baseline and Vulnerability Management objectives and reframed several organizational-goal ideas. Community feedback added language accessibility, clearer pathways for directed funding, and PSF membership development. A record of the feedback and its disposition is retained by the board and will inform the first annual review.
 

@@ -52,5 +52,5 @@ Git history preserves earlier versions and shows how the plan changed.
 ## Feedback
 
 Send strategy feedback to
-[strategy@python.org](mailto:strategy@python.org). Public feedback informs the
+strategy [at] python.org. Public feedback informs the
 annual review, while PSF staff shape implementation of the plan.
