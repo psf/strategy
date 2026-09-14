@@ -49,15 +49,8 @@ and add links here to the relevant board decision, blog announcement, and review
 summary. Summarize each adopted revision in the [changelog](CHANGELOG.md).
 Git history preserves earlier versions and shows how the plan changed.
 
-## Contributing
+## Feedback
 
-Corrections, questions, and proposed changes are welcome through
-[issues](https://github.com/psf/strategy/issues) and
-[pull requests](https://github.com/psf/strategy/pulls).
-Explain the reason for a change and distinguish editorial corrections from
-proposals to change the strategy. Updates to the adopted goals and objectives
-should cite the corresponding PSF Board decision.
-
-You can also send strategy feedback to
+Send strategy feedback to
 [strategy@python.org](mailto:strategy@python.org). Public feedback informs the
 annual review, while PSF staff shape implementation of the plan.
