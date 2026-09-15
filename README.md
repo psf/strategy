@@ -20,7 +20,7 @@ points for PSF staff to develop, rather than implementation commitments.
 
 ## Publications and background
 
-This repository keeps a versioned copy of the latest strategy. Its planned
+This repository keeps a versioned copy of the latest strategy. Its
 public home is [python.org/psf/strategy/](https://www.python.org/psf/strategy/)
 (forthcoming), with announcements and context on the
 [PSF blog](https://pyfound.blogspot.com/).
